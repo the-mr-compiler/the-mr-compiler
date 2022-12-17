@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meghanath Nalawade (@the-mr-compiler)
 - 👀 I’m interested in `web technologies`
 - 🌱 I’m currently learning ```spring-boot```
-- 💞️ I’m looking to collaborate on any web stack
+- 💞️ I’m looking for a interenship🤗
 - 📫 Contact me on <a href="mailto:meghanathms06@gmail.com">Gmail</a>
 
 ![Profile views](https://gpvc.arturio.dev/the-mr-compiler)
