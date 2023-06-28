@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a interenship🤗
 - 📫 Contact me on <a href="mailto:meghanathms06@gmail.com">Gmail</a>
 
-![Profile views](https://gpvc.arturio.dev/the-mr-compiler)
+<!-- ![Profile views](https://gpvc.arturio.dev/the-mr-compiler) -->
 
 ### Languages
 
@@ -17,9 +17,3 @@
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=the-mr-compiler&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-mr-compiler&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=20&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-
-<!---
-the-mr-compiler/the-mr-compiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
