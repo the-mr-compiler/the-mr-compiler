@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Meghanath Nalawade (@the-mr-compiler)
+- 👋 Hi, I’m Meghanath Nalawade (<a href="https://in.linkedin.com/in/dktemeghanathnalawade">@the-mr-compiler</a>)
 - 👀 I’m interested in `web technologies`
 - 🌱 I’m currently working as ```full-stack developer```
 - 💞️ I’m looking for new oppoopportunities🤗
